@@ -14,3 +14,14 @@ A simple Python console application that helps you calculate your BMI, supports 
 1. Download or clone the repo:
    ```bash
 git clone https://github.com/Kunalcoded/bmi-health-tracker.git
+
+## Screenshots
+
+### Welcome Menu
+![Welcome Menu](menu.png)
+
+### Calculation Example
+![Calculation](calculation.png)
+
+### History View
+![History](history.png)
